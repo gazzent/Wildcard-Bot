@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by the AutoFTbot Team**  
 **Developer: [@AutoFtBot69](https://t.me/AutoFtBot69)**
 
-[🚀 **Get Started Now**](https://www.npmjs.com/package/autoft-bot-wildcard) • [📢 **Updates Channel**](https://t.me/AutoFtFile) • [💰 **Donate**](https://raw.githubusercontent.com/AutoFTbot/AutoFTbot/refs/heads/main/assets/QRIS.jpg)
+[🚀 **Get Started Now**](https://www.npmjs.com/package/autoft-bot-wildcard) • [📢 **Updates Channel**](https://t.me/AutoFtFile) • [💰 **Donate**](https://raw.githubusercontent.com/AutoFTbot/AutoFTbot/refs/heads/main/qris.png)
 
 </div>
 

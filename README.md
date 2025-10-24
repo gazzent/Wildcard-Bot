@@ -178,7 +178,7 @@ NODE_ENV=production
 
 ### 💰 Donate via QRIS (Indonesia)
 
-![QRIS Donation](https://raw.githubusercontent.com/AutoFTbot/AutoFTbot/refs/heads/main/assets/QRIS.jpg)
+![QRIS Donation](https://raw.githubusercontent.com/AutoFTbot/AutoFTbot/refs/heads/main/qris.png)
 
 **Your donation helps us maintain and improve this project!**
 
